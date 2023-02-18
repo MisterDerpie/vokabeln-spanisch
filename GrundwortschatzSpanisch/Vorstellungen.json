@@ -1,0 +1,79 @@
+{
+    "from": "vorstellungen",
+    "to": "presentaciones",
+    "name": "Sprachheld/Vorstellungen",
+    "words": [
+        {
+            "vorstellungen": "Name",
+            "presentaciones": "el nombre"
+        },
+        {
+            "vorstellungen": "Wie heißen Sie / Wie heißt Du?",
+            "presentaciones": "¿Cómo se llama (usted) / Cómo te llamas?"
+        },
+        {
+            "vorstellungen": "Ich heiße…",
+            "presentaciones": "Me llamo…"
+        },
+        {
+            "vorstellungen": "Ich bin…",
+            "presentaciones": "Yo soy"
+        },
+        {
+            "vorstellungen": "Es ist nett Sie / Dich kennenzulernen.",
+            "presentaciones": "Es un placer conocerle / conocerte."
+        },
+        {
+            "vorstellungen": "Ich bin X Jahre alt.",
+            "presentaciones": "Tengo X años."
+        },
+        {
+            "vorstellungen": "Ich komme aus…",
+            "presentaciones": "Soy de…"
+        },
+        {
+            "vorstellungen": "Wie alt sind Sie / bist Du?",
+            "presentaciones": "¿Cuántos años tiene (usted) / tienes ?"
+        },
+        {
+            "vorstellungen": "Wo arbeiten Sie / arbeitest Du?",
+            "presentaciones": "¿Dónde trabaja (usted) / trabajas?"
+        },
+        {
+            "vorstellungen": "Wo kommen Sie / kommst Du her?",
+            "presentaciones": "¿De dónde es (usted) / eres?"
+        },
+        {
+            "vorstellungen": "Was bringt Sie / Dich hierher?",
+            "presentaciones": "¿Qué le / te trae por aquí?"
+        },
+        {
+            "vorstellungen": "Wie war Ihre / Deine Reise?",
+            "presentaciones": "¿Cómo ha ido su / tu viaje?"
+        },
+        {
+            "vorstellungen": "Haben Sie / Hast Du eine gute Zeit?",
+            "presentaciones": "¿Lo está / estás pasando bien?"
+        },
+        {
+            "vorstellungen": "Was halten Sie / hältst Du von …?",
+            "presentaciones": "¿Qué piensa / piensas sobre…?"
+        },
+        {
+            "vorstellungen": "Meine Freunde nennen mich …",
+            "presentaciones": "Mis amigos me llaman…"
+        },
+        {
+            "vorstellungen": "Kennen wir uns?",
+            "presentaciones": "¿Nos hemos visto antes?"
+        },
+        {
+            "vorstellungen": "Dies ist (Name)",
+            "presentaciones": "Este / Esta es (nombre)"
+        },
+        {
+            "vorstellungen": "Wie war Ihr  / Dein Wochenende?",
+            "presentaciones": "¿Cómo ha sido su / tu fin de semana?"
+        }
+    ]
+}

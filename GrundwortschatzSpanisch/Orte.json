@@ -1,0 +1,87 @@
+{
+    "from": "orte",
+    "to": "ubicaciones",
+    "name": "Sprachheld/Orte",
+    "words": [
+        {
+            "orte": "Supermarkt",
+            "ubicaciones": "la tienda de comestibles / el supermercado"
+        },
+        {
+            "orte": "Krankenhaus",
+            "ubicaciones": "el hospital"
+        },
+        {
+            "orte": "Bank",
+            "ubicaciones": "el banco"
+        },
+        {
+            "orte": "Hotel",
+            "ubicaciones": "el hotel"
+        },
+        {
+            "orte": "Bar",
+            "ubicaciones": "el bar"
+        },
+        {
+            "orte": "Apotheke",
+            "ubicaciones": "la farmacia"
+        },
+        {
+            "orte": "Strand",
+            "ubicaciones": "la playa"
+        },
+        {
+            "orte": "Restaurant",
+            "ubicaciones": "el restaurante"
+        },
+        {
+            "orte": "Flughafen",
+            "ubicaciones": "el aeropuerto"
+        },
+        {
+            "orte": "Bäckerei",
+            "ubicaciones": "la panadería"
+        },
+        {
+            "orte": "Bushaltestelle",
+            "ubicaciones": "la estación de autobús"
+        },
+        {
+            "orte": "Kirche",
+            "ubicaciones": "la iglesia"
+        },
+        {
+            "orte": "Kino",
+            "ubicaciones": "el cine"
+        },
+        {
+            "orte": "Tankstelle",
+            "ubicaciones": "la gasolinera"
+        },
+        {
+            "orte": "Museum",
+            "ubicaciones": "el museo"
+        },
+        {
+            "orte": "Polizeistation",
+            "ubicaciones": "la comisaría de policía"
+        },
+        {
+            "orte": "Schule",
+            "ubicaciones": "la escuela"
+        },
+        {
+            "orte": "Platz",
+            "ubicaciones": "la plaza"
+        },
+        {
+            "orte": "Supermarkt",
+            "ubicaciones": "el supermercado"
+        },
+        {
+            "orte": "Zoo",
+            "ubicaciones": "el zoo"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "from": "wichtigeverben",
+    "to": "verbosimportantes",
+    "name": "Sprachheld/Verben",
+    "words": [
+        {
+            "wichtigeverben": "sein",
+            "verbosimportantes": "ser / estar"
+        },
+        {
+            "wichtigeverben": "bekommen",
+            "verbosimportantes": "conseguir"
+        },
+        {
+            "wichtigeverben": "geben",
+            "verbosimportantes": "dar"
+        },
+        {
+            "wichtigeverben": "leben",
+            "verbosimportantes": "vivir"
+        },
+        {
+            "wichtigeverben": "machen",
+            "verbosimportantes": "hacer"
+        },
+        {
+            "wichtigeverben": "gehen",
+            "verbosimportantes": "caminar"
+        },
+        {
+            "wichtigeverben": "benutzen",
+            "verbosimportantes": "usar"
+        },
+        {
+            "wichtigeverben": "essen",
+            "verbosimportantes": "comer"
+        },
+        {
+            "wichtigeverben": "denken",
+            "verbosimportantes": "pensar"
+        },
+        {
+            "wichtigeverben": "kommen",
+            "verbosimportantes": "venir"
+        },
+        {
+            "wichtigeverben": "haben",
+            "verbosimportantes": "tener"
+        },
+        {
+            "wichtigeverben": "tun",
+            "verbosimportantes": "hacer"
+        },
+        {
+            "wichtigeverben": "sagen",
+            "verbosimportantes": "decir"
+        },
+        {
+            "wichtigeverben": "gehen",
+            "verbosimportantes": "ir"
+        },
+        {
+            "wichtigeverben": "wissen",
+            "verbosimportantes": "saber"
+        },
+        {
+            "wichtigeverben": "sehen",
+            "verbosimportantes": "ver"
+        },
+        {
+            "wichtigeverben": "wollen",
+            "verbosimportantes": "querer"
+        },
+        {
+            "wichtigeverben": "finden",
+            "verbosimportantes": "encontrar"
+        },
+        {
+            "wichtigeverben": "erzählen",
+            "verbosimportantes": "decir"
+        },
+        {
+            "wichtigeverben": "fragen",
+            "verbosimportantes": "preguntar"
+        },
+        {
+            "wichtigeverben": "versuchen",
+            "verbosimportantes": "intentar"
+        },
+        {
+            "wichtigeverben": "anrufen",
+            "verbosimportantes": "llamar"
+        }
+    ]
+}

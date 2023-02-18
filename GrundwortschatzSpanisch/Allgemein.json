@@ -1,0 +1,79 @@
+{
+    "from": "allgemein",
+    "to": "general",
+    "name": "Sprachheld/Allgemein",
+    "words": [
+        {
+            "allgemein": "Ja",
+            "general": "sí"
+        },
+        {
+            "allgemein": "Nein",
+            "general": "no"
+        },
+        {
+            "allgemein": "Vielleicht",
+            "general": "tal vez"
+        },
+        {
+            "allgemein": "Bitte",
+            "general": "por favor"
+        },
+        {
+            "allgemein": "Danke",
+            "general": "gracias"
+        },
+        {
+            "allgemein": "Entschuldigung",
+            "general": "lo siento"
+        },
+        {
+            "allgemein": "Alles klar",
+            "general": "vale"
+        },
+        {
+            "allgemein": "Ich verstehe (nicht)",
+            "general": "(No) entiendo"
+        },
+        {
+            "allgemein": "Sprechen Sie / Sprichst Du Deutsch?",
+            "general": "¿Sabe / Sabes hablar alemán?"
+        },
+        {
+            "allgemein": "Ich spreche kein Spanisch.",
+            "general": "No hablo español."
+        },
+        {
+            "allgemein": "Hilfe!",
+            "general": "¡Socorro! / ¡Ayuda!"
+        },
+        {
+            "allgemein": "Ein bisschen langsamer bitte.",
+            "general": "Un poco más despacio por favor."
+        },
+        {
+            "allgemein": "Gesundheit!",
+            "general": "¡Salud!"
+        },
+        {
+            "allgemein": "Prost!",
+            "general": "¡Salud!"
+        },
+        {
+            "allgemein": "Wo",
+            "general": "dónde"
+        },
+        {
+            "allgemein": "Wann",
+            "general": "cuándo"
+        },
+        {
+            "allgemein": "Wer",
+            "general": "quién"
+        },
+        {
+            "allgemein": "Warum",
+            "general": "por qué"
+        }
+    ]
+}

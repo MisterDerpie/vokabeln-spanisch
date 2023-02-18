@@ -1,0 +1,167 @@
+{
+    "from": "zahlen",
+    "to": "numeros",
+    "name": "Sprachheld/Zahlen",
+    "words": [
+        {
+            "zahlen": "Eins",
+            "numeros": "Uno"
+        },
+        {
+            "zahlen": "Zwei",
+            "numeros": "Dos"
+        },
+        {
+            "zahlen": "Drei",
+            "numeros": "Tres"
+        },
+        {
+            "zahlen": "Vier",
+            "numeros": "Cuatro"
+        },
+        {
+            "zahlen": "Fünf",
+            "numeros": "Cinco"
+        },
+        {
+            "zahlen": "Sechs",
+            "numeros": "Seis"
+        },
+        {
+            "zahlen": "Sieben",
+            "numeros": "Siete"
+        },
+        {
+            "zahlen": "Acht",
+            "numeros": "Ocho"
+        },
+        {
+            "zahlen": "Neun",
+            "numeros": "Nueve"
+        },
+        {
+            "zahlen": "Zehn",
+            "numeros": "Diez"
+        },
+        {
+            "zahlen": "Elf",
+            "numeros": "Once"
+        },
+        {
+            "zahlen": "Zwölf",
+            "numeros": "Doce"
+        },
+        {
+            "zahlen": "Dreizehn",
+            "numeros": "Trece"
+        },
+        {
+            "zahlen": "Vierzehn",
+            "numeros": "Catorce"
+        },
+        {
+            "zahlen": "Fünfzehn",
+            "numeros": "Quince"
+        },
+        {
+            "zahlen": "Sechszehn",
+            "numeros": "Dieciséis"
+        },
+        {
+            "zahlen": "Siebzehn",
+            "numeros": "Diecisiete"
+        },
+        {
+            "zahlen": "Achtzehn",
+            "numeros": "Dieciocho"
+        },
+        {
+            "zahlen": "Neunzehn",
+            "numeros": "Diecinueve"
+        },
+        {
+            "zahlen": "Zwanzig",
+            "numeros": "Veinte"
+        },
+        {
+            "zahlen": "Dreißig",
+            "numeros": "Treinta"
+        },
+        {
+            "zahlen": "Vierzig",
+            "numeros": "Cuarenta"
+        },
+        {
+            "zahlen": "Fünfzig",
+            "numeros": "Cincuenta"
+        },
+        {
+            "zahlen": "Sechszig",
+            "numeros": "Sesenta"
+        },
+        {
+            "zahlen": "Siebzieg",
+            "numeros": "Setenta"
+        },
+        {
+            "zahlen": "Achzig",
+            "numeros": "Ochenta"
+        },
+        {
+            "zahlen": "Neunzig",
+            "numeros": "Noventa"
+        },
+        {
+            "zahlen": "Hundert",
+            "numeros": "Cien"
+        },
+        {
+            "zahlen": "Zweihundert",
+            "numeros": "Doscientos"
+        },
+        {
+            "zahlen": "Tausend",
+            "numeros": "Mil"
+        },
+        {
+            "zahlen": "Zweitausend",
+            "numeros": "Dos mil"
+        },
+        {
+            "zahlen": "Million",
+            "numeros": "Millón"
+        },
+        {
+            "zahlen": "Milliarde",
+            "numeros": "Mil millones"
+        },
+        {
+            "zahlen": "erste(r)",
+            "numeros": "primero/primera"
+        },
+        {
+            "zahlen": "zweite(r)",
+            "numeros": "segundo/segunda"
+        },
+        {
+            "zahlen": "dritte(r)",
+            "numeros": "tercero/tercera"
+        },
+        {
+            "zahlen": "vierte(r)",
+            "numeros": "cuarto/cuarta"
+        },
+        {
+            "zahlen": "fünfte(r)",
+            "numeros": "quinto/quinta"
+        },
+        {
+            "zahlen": "sechste(r)",
+            "numeros": "sexto/sexta"
+        },
+        {
+            "zahlen": "siebte(r)",
+            "numeros": "séptimo/séptima"
+        }
+    ]
+}

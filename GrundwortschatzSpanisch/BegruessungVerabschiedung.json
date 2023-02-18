@@ -1,0 +1,79 @@
+{
+    "from": "begruessung_verabschiedung",
+    "to": "saludo_despedida",
+    "name": "Sprachheld/Gruß und Abschied",
+    "words": [
+        {
+            "begruessung_verabschiedung": "Hallo",
+            "saludo_despedida": "Hola"
+        },
+        {
+            "begruessung_verabschiedung": "Guten Morgen",
+            "saludo_despedida": "Buenos días"
+        },
+        {
+            "begruessung_verabschiedung": "Guten Tag",
+            "saludo_despedida": "Buenas tardes"
+        },
+        {
+            "begruessung_verabschiedung": "Guten Abend",
+            "saludo_despedida": "Buenas tardes"
+        },
+        {
+            "begruessung_verabschiedung": "Gute Nacht",
+            "saludo_despedida": "Buenas noches"
+        },
+        {
+            "begruessung_verabschiedung": "Tschüss",
+            "saludo_despedida": "Adiós"
+        },
+        {
+            "begruessung_verabschiedung": "Auf Wiedersehen",
+            "saludo_despedida": "Hasta la vista / Hasta la proxima"
+        },
+        {
+            "begruessung_verabschiedung": "Wie geht es Ihnen / Dir?",
+            "saludo_despedida": "¿Cómo está (usted) / estás?"
+        },
+        {
+            "begruessung_verabschiedung": "gut",
+            "saludo_despedida": "bien"
+        },
+        {
+            "begruessung_verabschiedung": "schlecht",
+            "saludo_despedida": "mal"
+        },
+        {
+            "begruessung_verabschiedung": "Hey / Hallo",
+            "saludo_despedida": "Hola"
+        },
+        {
+            "begruessung_verabschiedung": "Wie geht’s?",
+            "saludo_despedida": "¿Qué tal?"
+        },
+        {
+            "begruessung_verabschiedung": "Was geht?",
+            "saludo_despedida": "¿Qué hay?"
+        },
+        {
+            "begruessung_verabschiedung": "Schön Sie / Dich zu sehen.",
+            "saludo_despedida": "Qué bueno verle / verte."
+        },
+        {
+            "begruessung_verabschiedung": "Nett Sie kennenzulernen",
+            "saludo_despedida": "Encantado de conocerle / conocerte."
+        },
+        {
+            "begruessung_verabschiedung": "Mach’s gut",
+            "saludo_despedida": "Cuídate."
+        },
+        {
+            "begruessung_verabschiedung": "Lange nicht gesehen.",
+            "saludo_despedida": "Mucho tiempo sin haberte visto."
+        },
+        {
+            "begruessung_verabschiedung": "Wie steht’s?",
+            "saludo_despedida": "¿Cómo van las cosas?"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "from": "zeitendaten",
+    "to": "tiempofechas",
+    "name": "Sprachheld/Zeiten und Daten",
+    "words": [
+        {
+          "zeitendaten": "jetzt",
+          "tiempofechas": "ahora"
+        },
+        {
+          "zeitendaten": "heute",
+          "tiempofechas": "hoy"
+        },
+        {
+          "zeitendaten": "morgen",
+          "tiempofechas": "mañana"
+        },
+        {
+          "zeitendaten": "gestern",
+          "tiempofechas": "ayer"
+        },
+        {
+          "zeitendaten": "Sekunde",
+          "tiempofechas": "el segundo"
+        },
+        {
+          "zeitendaten": "Minute",
+          "tiempofechas": "el minuto"
+        },
+        {
+          "zeitendaten": "Stunde",
+          "tiempofechas": "la hora"
+        },
+        {
+          "zeitendaten": "Tag",
+          "tiempofechas": "el día"
+        },
+        {
+          "zeitendaten": "Woche",
+          "tiempofechas": "la semana"
+        },
+        {
+          "zeitendaten": "Monat",
+          "tiempofechas": "el mes"
+        },
+        {
+          "zeitendaten": "Jahr",
+          "tiempofechas": "el año"
+        },
+        {
+          "zeitendaten": "früh",
+          "tiempofechas": "temprano"
+        },
+        {
+          "zeitendaten": "spät",
+          "tiempofechas": "tarde"
+        },
+        {
+          "zeitendaten": "Montag",
+          "tiempofechas": "el lunes"
+        },
+        {
+          "zeitendaten": "Dienstag",
+          "tiempofechas": "el martes"
+        },
+        {
+          "zeitendaten": "Mittwoch",
+          "tiempofechas": "el miércoles"
+        },
+        {
+          "zeitendaten": "Donnerstag",
+          "tiempofechas": "el jueves"
+        },
+        {
+          "zeitendaten": "Freitag",
+          "tiempofechas": "el viernes"
+        },
+        {
+          "zeitendaten": "Samstag",
+          "tiempofechas": "el sábado"
+        },
+        {
+          "zeitendaten": "Sonntag",
+          "tiempofechas": "el domingo"
+        },
+        {
+          "zeitendaten": "Frühling",
+          "tiempofechas": "la primavera"
+        },
+        {
+          "zeitendaten": "Sommer",
+          "tiempofechas": "el verano"
+        },
+        {
+          "zeitendaten": "Herbst",
+          "tiempofechas": "el otoño"
+        },
+        {
+          "zeitendaten": "Winter",
+          "tiempofechas": "el invierno"
+        },
+        {
+          "zeitendaten": "Januar",
+          "tiempofechas": "el enero"
+        },
+        {
+          "zeitendaten": "Februar",
+          "tiempofechas": "el febrero"
+        },
+        {
+          "zeitendaten": "März",
+          "tiempofechas": "el marzo"
+        },
+        {
+          "zeitendaten": "April",
+          "tiempofechas": "el abril"
+        },
+        {
+          "zeitendaten": "Mai",
+          "tiempofechas": "el mayo"
+        },
+        {
+          "zeitendaten": "Juni",
+          "tiempofechas": "el junio"
+        },
+        {
+          "zeitendaten": "Juli",
+          "tiempofechas": "el julio"
+        },
+        {
+          "zeitendaten": "August",
+          "tiempofechas": "el agosto"
+        },
+        {
+          "zeitendaten": "September",
+          "tiempofechas": "el septiembre"
+        },
+        {
+          "zeitendaten": "Oktober",
+          "tiempofechas": "el octubre"
+        },
+        {
+          "zeitendaten": "November",
+          "tiempofechas": "el noviembre"
+        },
+        {
+          "zeitendaten": "Dezember",
+          "tiempofechas": "el diciembre"
+        },
+        {
+          "zeitendaten": "Uhrzeit",
+          "tiempofechas": "la hora"
+        },
+        {
+          "zeitendaten": "Wie spät ist es?",
+          "tiempofechas": "¿Qué hora es?"
+        },
+        {
+          "zeitendaten": "Jahrzehnt",
+          "tiempofechas": "la década"
+        },
+        {
+          "zeitendaten": "Jahrhundert",
+          "tiempofechas": "el siglo"
+        }
+      ]
+}

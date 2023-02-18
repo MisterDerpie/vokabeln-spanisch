@@ -1,0 +1,79 @@
+{
+    "from": "einkaufen",
+    "to": "compras",
+    "name": "Sprachheld/Einkaufen",
+    "words": [
+        {
+            "einkaufen": "teuer",
+            "compras": "caro"
+        },
+        {
+            "einkaufen": "billig",
+            "compras": "economico"
+        },
+        {
+            "einkaufen": "kostenlos",
+            "compras": "gratis"
+        },
+        {
+            "einkaufen": "Wie viel kostet das?",
+            "compras": "¿Cuánto cuesta eso?"
+        },
+        {
+            "einkaufen": "Kassierer",
+            "compras": "el cajero"
+        },
+        {
+            "einkaufen": "Trolley / Warenkorb",
+            "compras": "el carrito de la compra"
+        },
+        {
+            "einkaufen": "Tasche",
+            "compras": "la bolsa"
+        },
+        {
+            "einkaufen": "Garantie",
+            "compras": "la garantía"
+        },
+        {
+            "einkaufen": "Rückgaberecht",
+            "compras": "la política de reembolso"
+        },
+        {
+            "einkaufen": "Kundenkarte",
+            "compras": "la tarjeta de fidelidad"
+        },
+        {
+            "einkaufen": "Mehrwertsteuer-Quittung",
+            "compras": "el recibo IVA"
+        },
+        {
+            "einkaufen": "Rabatt",
+            "compras": "el descuento en efectivo"
+        },
+        {
+            "einkaufen": "Gang",
+            "compras": "el pasillo"
+        },
+        {
+            "einkaufen": "Regal",
+            "compras": "la estantería"
+        },
+        {
+            "einkaufen": "Umkleidekabine",
+            "compras": "el vestuario"
+        },
+        {
+            "einkaufen": "Lieferung",
+            "compras": "la entrega"
+        },
+        {
+            "einkaufen": "Schlussverkauf",
+            "compras": "las rebajas / la liquidación"
+        },
+        {
+            "einkaufen": "Entschuldigen Sie",
+            "compras": " arbeiten Sie hier?"
+        }
+    ]
+}

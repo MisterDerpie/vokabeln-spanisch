@@ -1,0 +1,39 @@
+{
+    "from": "personalpronomen",
+    "to": "pronombrespersonales",
+    "name": "Sprachheld/Personalpronomen",
+    "words": [
+        {
+          "personalpronomen": "ich",
+          "pronombrespersonales": "yo"
+        },
+        {
+          "personalpronomen": "du",
+          "pronombrespersonales": "tú"
+        },
+        {
+          "personalpronomen": "er",
+          "pronombrespersonales": "él"
+        },
+        {
+          "personalpronomen": "sie / Sie",
+          "pronombrespersonales": "ella / usted"
+        },
+        {
+          "personalpronomen": "es",
+          "pronombrespersonales": "eso"
+        },
+        {
+          "personalpronomen": "wir",
+          "pronombrespersonales": "nosotros/nosotras"
+        },
+        {
+          "personalpronomen": "ihr",
+          "pronombrespersonales": "vosotros / vosotras"
+        },
+        {
+          "personalpronomen": "sie / Sie",
+          "pronombrespersonales": "ellos/ellas / ustedes"
+        }
+      ]
+}

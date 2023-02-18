@@ -1,0 +1,87 @@
+{
+    "from": "wichtigewoerter",
+    "to": "palabrasimportantes",
+    "name": "Sprachheld/Wichtige Wörter",
+    "words": [
+        {
+          "wichtigewoerter": "Ding",
+          "palabrasimportantes": "la cosa"
+        },
+        {
+          "wichtigewoerter": "sicher",
+          "palabrasimportantes": "por supuesto"
+        },
+        {
+          "wichtigewoerter": "der/die/das",
+          "palabrasimportantes": "el/la/lo"
+        },
+        {
+          "wichtigewoerter": "und",
+          "palabrasimportantes": "y"
+        },
+        {
+          "wichtigewoerter": "oder",
+          "palabrasimportantes": "o"
+        },
+        {
+          "wichtigewoerter": "weil",
+          "palabrasimportantes": "porque"
+        },
+        {
+          "wichtigewoerter": "Leben",
+          "palabrasimportantes": "la vida"
+        },
+        {
+          "wichtigewoerter": "Regierung",
+          "palabrasimportantes": "el gobierno"
+        },
+        {
+          "wichtigewoerter": "Kind",
+          "palabrasimportantes": "el niño/la niña"
+        },
+        {
+          "wichtigewoerter": "Firma",
+          "palabrasimportantes": "la empresa"
+        },
+        {
+          "wichtigewoerter": "Gruppe",
+          "palabrasimportantes": "el grupo"
+        },
+        {
+          "wichtigewoerter": "Alter",
+          "palabrasimportantes": "la edad"
+        },
+        {
+          "wichtigewoerter": "Mond",
+          "palabrasimportantes": "la luna"
+        },
+        {
+          "wichtigewoerter": "Sonne",
+          "palabrasimportantes": "el sol"
+        },
+        {
+          "wichtigewoerter": "Auto",
+          "palabrasimportantes": "el coche"
+        },
+        {
+          "wichtigewoerter": "Buch",
+          "palabrasimportantes": "el libro"
+        },
+        {
+          "wichtigewoerter": "Welt",
+          "palabrasimportantes": "el mundo"
+        },
+        {
+          "wichtigewoerter": "Familie",
+          "palabrasimportantes": "la familia"
+        },
+        {
+          "wichtigewoerter": "Freund",
+          "palabrasimportantes": "el amigo"
+        },
+        {
+          "wichtigewoerter": "Gesetz",
+          "palabrasimportantes": "la ley"
+        }
+      ]
+}

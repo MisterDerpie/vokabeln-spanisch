@@ -1,0 +1,87 @@
+{
+    "from": "imhotel",
+    "to": "enelhotel",
+    "name": "Sprachheld/Im Hotel",
+    "words": [
+        {
+            "imhotel": "Zimmer",
+            "enelhotel": "la habitación"
+        },
+        {
+            "imhotel": "Zimmerservice",
+            "enelhotel": "el servicio a la habitación"
+        },
+        {
+            "imhotel": "Badezimmer",
+            "enelhotel": "el baño"
+        },
+        {
+            "imhotel": "Bett",
+            "enelhotel": "la cama"
+        },
+        {
+            "imhotel": "Schlafzimmer",
+            "enelhotel": "el dormitorio"
+        },
+        {
+            "imhotel": "Etage",
+            "enelhotel": "el piso"
+        },
+        {
+            "imhotel": "Aufzug",
+            "enelhotel": "el ascensor"
+        },
+        {
+            "imhotel": "Rezeption",
+            "enelhotel": "la recepción"
+        },
+        {
+            "imhotel": "Handtuch",
+            "enelhotel": "la toalla"
+        },
+        {
+            "imhotel": "Nebenräume",
+            "enelhotel": "las habitaciones accesorias"
+        },
+        {
+            "imhotel": "Gepäck",
+            "enelhotel": "el equipaje"
+        },
+        {
+            "imhotel": "Page",
+            "enelhotel": "el botones"
+        },
+        {
+            "imhotel": "Kochnische",
+            "enelhotel": "el rincón cocina / la cocinita"
+        },
+        {
+            "imhotel": "Bettwäsche",
+            "enelhotel": "la ropa de cama"
+        },
+        {
+            "imhotel": "Kammerdiener",
+            "enelhotel": "el ayudante de cámara"
+        },
+        {
+            "imhotel": "Lobby",
+            "enelhotel": "el vestíbulo"
+        },
+        {
+            "imhotel": "Anzahlung",
+            "enelhotel": "el depósito"
+        },
+        {
+            "imhotel": "Einchecken",
+            "enelhotel": "registrarse"
+        },
+        {
+            "imhotel": "Auschecken",
+            "enelhotel": "registrar la salida"
+        },
+        {
+            "imhotel": "Geschenk",
+            "enelhotel": "el regalo"
+        }
+    ]
+}

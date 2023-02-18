@@ -1,0 +1,87 @@
+{
+    "from": "wichtigeadjektive",
+    "to": "adjetivosimportantes",
+    "name": "Sprachheld/Adjektive",
+    "words": [
+        {
+            "wichtigeadjektive": "schön",
+            "adjetivosimportantes": "hermoso/hermosa"
+        },
+        {
+            "wichtigeadjektive": "hässlich",
+            "adjetivosimportantes": "feo/fea"
+        },
+        {
+            "wichtigeadjektive": "hoch",
+            "adjetivosimportantes": "alto/alta"
+        },
+        {
+            "wichtigeadjektive": "klein",
+            "adjetivosimportantes": "pequeño/pequeña"
+        },
+        {
+            "wichtigeadjektive": "groß",
+            "adjetivosimportantes": "grande"
+        },
+        {
+            "wichtigeadjektive": "neu",
+            "adjetivosimportantes": "nuevo/nueva"
+        },
+        {
+            "wichtigeadjektive": "lang",
+            "adjetivosimportantes": "largo/larga"
+        },
+        {
+            "wichtigeadjektive": "großartig",
+            "adjetivosimportantes": "estupendo/estupenda"
+        },
+        {
+            "wichtigeadjektive": "alt",
+            "adjetivosimportantes": "viejo/vieja"
+        },
+        {
+            "wichtigeadjektive": "jung",
+            "adjetivosimportantes": "joven"
+        },
+        {
+            "wichtigeadjektive": "anders",
+            "adjetivosimportantes": "diferente"
+        },
+        {
+            "wichtigeadjektive": "wichtig",
+            "adjetivosimportantes": "importante"
+        },
+        {
+            "wichtigeadjektive": "schlecht",
+            "adjetivosimportantes": "malo/mala"
+        },
+        {
+            "wichtigeadjektive": "lustig",
+            "adjetivosimportantes": "divertido/divertida"
+        },
+        {
+            "wichtigeadjektive": "ernst",
+            "adjetivosimportantes": "serio/seria"
+        },
+        {
+            "wichtigeadjektive": "stark",
+            "adjetivosimportantes": "fuerte"
+        },
+        {
+            "wichtigeadjektive": "einfach",
+            "adjetivosimportantes": "fácil"
+        },
+        {
+            "wichtigeadjektive": "schwer",
+            "adjetivosimportantes": "difícil"
+        },
+        {
+            "wichtigeadjektive": "arm",
+            "adjetivosimportantes": "pobre"
+        },
+        {
+            "wichtigeadjektive": "reich",
+            "adjetivosimportantes": "rico/rica"
+        }
+    ]
+}

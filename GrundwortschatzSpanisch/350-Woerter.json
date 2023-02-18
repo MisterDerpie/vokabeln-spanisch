@@ -1,0 +1,1375 @@
+{
+    "from": "german",
+    "to": "spanish",
+    "name": "Sprachheld - 350 Wörter",
+    "words": [
+        {
+            "german": "schön",
+            "spanish": "hermoso/hermosa"
+        },
+        {
+            "german": "hässlich",
+            "spanish": "feo/fea"
+        },
+        {
+            "german": "hoch",
+            "spanish": "alto/alta"
+        },
+        {
+            "german": "klein",
+            "spanish": "pequeño/pequeña"
+        },
+        {
+            "german": "groß",
+            "spanish": "grande"
+        },
+        {
+            "german": "neu",
+            "spanish": "nuevo/nueva"
+        },
+        {
+            "german": "lang",
+            "spanish": "largo/larga"
+        },
+        {
+            "german": "großartig",
+            "spanish": "estupendo/estupenda"
+        },
+        {
+            "german": "alt",
+            "spanish": "viejo/vieja"
+        },
+        {
+            "german": "jung",
+            "spanish": "joven"
+        },
+        {
+            "german": "anders",
+            "spanish": "diferente"
+        },
+        {
+            "german": "wichtig",
+            "spanish": "importante"
+        },
+        {
+            "german": "schlecht",
+            "spanish": "malo/mala"
+        },
+        {
+            "german": "lustig",
+            "spanish": "divertido/divertida"
+        },
+        {
+            "german": "ernst",
+            "spanish": "serio/seria"
+        },
+        {
+            "german": "stark",
+            "spanish": "fuerte"
+        },
+        {
+            "german": "einfach",
+            "spanish": "fácil"
+        },
+        {
+            "german": "schwer",
+            "spanish": "difícil"
+        },
+        {
+            "german": "arm",
+            "spanish": "pobre"
+        },
+        {
+            "german": "reich",
+            "spanish": "rico/rica"
+        },
+        {
+            "german": "Ja",
+            "spanish": "sí"
+        },
+        {
+            "german": "Nein",
+            "spanish": "no"
+        },
+        {
+            "german": "Vielleicht",
+            "spanish": "tal vez"
+        },
+        {
+            "german": "Bitte",
+            "spanish": "por favor"
+        },
+        {
+            "german": "Danke",
+            "spanish": "gracias"
+        },
+        {
+            "german": "Entschuldigung",
+            "spanish": "lo siento"
+        },
+        {
+            "german": "Alles klar",
+            "spanish": "vale"
+        },
+        {
+            "german": "Ich verstehe (nicht)",
+            "spanish": "(No) entiendo"
+        },
+        {
+            "german": "Sprechen Sie / Sprichst Du Deutsch?",
+            "spanish": "¿Sabe / Sabes hablar alemán?"
+        },
+        {
+            "german": "Ich spreche kein Spanisch.",
+            "spanish": "No hablo español."
+        },
+        {
+            "german": "Hilfe!",
+            "spanish": "¡Socorro! / ¡Ayuda!"
+        },
+        {
+            "german": "Ein bisschen langsamer bitte.",
+            "spanish": "Un poco más despacio por favor."
+        },
+        {
+            "german": "Gesundheit!",
+            "spanish": "¡Salud!"
+        },
+        {
+            "german": "Prost!",
+            "spanish": "¡Salud!"
+        },
+        {
+            "german": "Wo",
+            "spanish": "dónde"
+        },
+        {
+            "german": "Wann",
+            "spanish": "cuándo"
+        },
+        {
+            "german": "Wer",
+            "spanish": "quién"
+        },
+        {
+            "german": "Warum",
+            "spanish": "por qué"
+        },
+        {
+            "german": "Hallo",
+            "spanish": "Hola"
+        },
+        {
+            "german": "Guten Morgen",
+            "spanish": "Buenos días"
+        },
+        {
+            "german": "Guten Tag",
+            "spanish": "Buenas tardes"
+        },
+        {
+            "german": "Guten Abend",
+            "spanish": "Buenas tardes"
+        },
+        {
+            "german": "Gute Nacht",
+            "spanish": "Buenas noches"
+        },
+        {
+            "german": "Tschüss",
+            "spanish": "Adiós"
+        },
+        {
+            "german": "Auf Wiedersehen",
+            "spanish": "Hasta la vista / Hasta la proxima"
+        },
+        {
+            "german": "Wie geht es Ihnen / Dir?",
+            "spanish": "¿Cómo está (usted) / estás?"
+        },
+        {
+            "german": "gut",
+            "spanish": "bien"
+        },
+        {
+            "german": "schlecht",
+            "spanish": "mal"
+        },
+        {
+            "german": "Hey / Hallo",
+            "spanish": "Hola"
+        },
+        {
+            "german": "Wie geht’s?",
+            "spanish": "¿Qué tal?"
+        },
+        {
+            "german": "Was geht?",
+            "spanish": "¿Qué hay?"
+        },
+        {
+            "german": "Schön Sie / Dich zu sehen.",
+            "spanish": "Qué bueno verle / verte."
+        },
+        {
+            "german": "Nett Sie kennenzulernen",
+            "spanish": "Encantado de conocerle / conocerte."
+        },
+        {
+            "german": "Mach’s gut",
+            "spanish": "Cuídate."
+        },
+        {
+            "german": "Lange nicht gesehen.",
+            "spanish": "Mucho tiempo sin haberte visto."
+        },
+        {
+            "german": "Wie steht’s?",
+            "spanish": "¿Cómo van las cosas?"
+        },
+        {
+            "german": "teuer",
+            "spanish": "caro"
+        },
+        {
+            "german": "billig",
+            "spanish": "economico"
+        },
+        {
+            "german": "kostenlos",
+            "spanish": "gratis"
+        },
+        {
+            "german": "Wie viel kostet das?",
+            "spanish": "¿Cuánto cuesta eso?"
+        },
+        {
+            "german": "Kassierer",
+            "spanish": "el cajero"
+        },
+        {
+            "german": "Trolley / Warenkorb",
+            "spanish": "el carrito de la compra"
+        },
+        {
+            "german": "Tasche",
+            "spanish": "la bolsa"
+        },
+        {
+            "german": "Garantie",
+            "spanish": "la garantía"
+        },
+        {
+            "german": "Rückgaberecht",
+            "spanish": "la política de reembolso"
+        },
+        {
+            "german": "Kundenkarte",
+            "spanish": "la tarjeta de fidelidad"
+        },
+        {
+            "german": "Mehrwertsteuer-Quittung",
+            "spanish": "el recibo IVA"
+        },
+        {
+            "german": "Rabatt",
+            "spanish": "el descuento en efectivo"
+        },
+        {
+            "german": "Gang",
+            "spanish": "el pasillo"
+        },
+        {
+            "german": "Regal",
+            "spanish": "la estantería"
+        },
+        {
+            "german": "Umkleidekabine",
+            "spanish": "el vestuario"
+        },
+        {
+            "german": "Lieferung",
+            "spanish": "la entrega"
+        },
+        {
+            "german": "Schlussverkauf",
+            "spanish": "las rebajas / la liquidación"
+        },
+        {
+            "german": "Entschuldigen Sie",
+            "spanish": " arbeiten Sie hier?"
+        },
+        {
+            "german": "Zimmer",
+            "spanish": "la habitación"
+        },
+        {
+            "german": "Zimmerservice",
+            "spanish": "el servicio a la habitación"
+        },
+        {
+            "german": "Badezimmer",
+            "spanish": "el baño"
+        },
+        {
+            "german": "Bett",
+            "spanish": "la cama"
+        },
+        {
+            "german": "Schlafzimmer",
+            "spanish": "el dormitorio"
+        },
+        {
+            "german": "Etage",
+            "spanish": "el piso"
+        },
+        {
+            "german": "Aufzug",
+            "spanish": "el ascensor"
+        },
+        {
+            "german": "Rezeption",
+            "spanish": "la recepción"
+        },
+        {
+            "german": "Handtuch",
+            "spanish": "la toalla"
+        },
+        {
+            "german": "Nebenräume",
+            "spanish": "las habitaciones accesorias"
+        },
+        {
+            "german": "Gepäck",
+            "spanish": "el equipaje"
+        },
+        {
+            "german": "Page",
+            "spanish": "el botones"
+        },
+        {
+            "german": "Kochnische",
+            "spanish": "el rincón cocina / la cocinita"
+        },
+        {
+            "german": "Bettwäsche",
+            "spanish": "la ropa de cama"
+        },
+        {
+            "german": "Kammerdiener",
+            "spanish": "el ayudante de cámara"
+        },
+        {
+            "german": "Lobby",
+            "spanish": "el vestíbulo"
+        },
+        {
+            "german": "Anzahlung",
+            "spanish": "el depósito"
+        },
+        {
+            "german": "Einchecken",
+            "spanish": "registrarse"
+        },
+        {
+            "german": "Auschecken",
+            "spanish": "registrar la salida"
+        },
+        {
+            "german": "Geschenk",
+            "spanish": "el regalo"
+        },
+        {
+            "german": "Einen Tisch für X Personen",
+            "spanish": " bitte."
+        },
+        {
+            "german": "Ich würde gerne bestellen.",
+            "spanish": "Me gustaría pedir."
+        },
+        {
+            "german": "Kann ich bitte die Karte haben?",
+            "spanish": "¿Puedo ver el menú"
+        },
+        {
+            "german": "Die Rechnung bitte.",
+            "spanish": "La cuenta"
+        },
+        {
+            "german": "Frühstück",
+            "spanish": "el desayuno"
+        },
+        {
+            "german": "Mittagsessen",
+            "spanish": "el almuerzo"
+        },
+        {
+            "german": "Abendessen",
+            "spanish": "la cena"
+        },
+        {
+            "german": "Besteck",
+            "spanish": "la cubertería"
+        },
+        {
+            "german": "Serviette",
+            "spanish": "la servilleta"
+        },
+        {
+            "german": "Brunch",
+            "spanish": "el brunch"
+        },
+        {
+            "german": "Hauptgang",
+            "spanish": "el plato principal"
+        },
+        {
+            "german": "Dessert",
+            "spanish": "el postre"
+        },
+        {
+            "german": "Trinkgeld",
+            "spanish": "la propina"
+        },
+        {
+            "german": "Beilage",
+            "spanish": "la guarnición"
+        },
+        {
+            "german": "Getränke",
+            "spanish": "las bebidas"
+        },
+        {
+            "german": "all you can eat",
+            "spanish": "el tenedor libre"
+        },
+        {
+            "german": "Happy Hour",
+            "spanish": "la hora feliz / Happy Hour"
+        },
+        {
+            "german": "Appetizer",
+            "spanish": "el aperitivo"
+        },
+        {
+            "german": "Mann",
+            "spanish": "el hombre"
+        },
+        {
+            "german": "Frau",
+            "spanish": "la mujer"
+        },
+        {
+            "german": "Junge",
+            "spanish": "el niño"
+        },
+        {
+            "german": "Mädchen",
+            "spanish": "la niña"
+        },
+        {
+            "german": "Arm",
+            "spanish": "el brazo"
+        },
+        {
+            "german": "Hand",
+            "spanish": "la mano"
+        },
+        {
+            "german": "Bein",
+            "spanish": "la pierna"
+        },
+        {
+            "german": "Fuß",
+            "spanish": "el pie"
+        },
+        {
+            "german": "Auge",
+            "spanish": "el ojo"
+        },
+        {
+            "german": "Kopf",
+            "spanish": "la cabeza"
+        },
+        {
+            "german": "Gehirn",
+            "spanish": "el cerebro"
+        },
+        {
+            "german": "Nase",
+            "spanish": "la nariz"
+        },
+        {
+            "german": "Ohr",
+            "spanish": "la oreja"
+        },
+        {
+            "german": "Haar",
+            "spanish": "el pelo"
+        },
+        {
+            "german": "Augenbraue",
+            "spanish": "la ceja"
+        },
+        {
+            "german": "Lippen",
+            "spanish": "los labios"
+        },
+        {
+            "german": "Finger",
+            "spanish": "el dedo"
+        },
+        {
+            "german": "Skelett",
+            "spanish": "el esqueleto"
+        },
+        {
+            "german": "Knochen",
+            "spanish": "los huesos"
+        },
+        {
+            "german": "Haut",
+            "spanish": "la piel"
+        },
+        {
+            "german": "Supermarkt",
+            "spanish": "la tienda de comestibles / el supermercado"
+        },
+        {
+            "german": "Krankenhaus",
+            "spanish": "el hospital"
+        },
+        {
+            "german": "Bank",
+            "spanish": "el banco"
+        },
+        {
+            "german": "Hotel",
+            "spanish": "el hotel"
+        },
+        {
+            "german": "Bar",
+            "spanish": "el bar"
+        },
+        {
+            "german": "Apotheke",
+            "spanish": "la farmacia"
+        },
+        {
+            "german": "Strand",
+            "spanish": "la playa"
+        },
+        {
+            "german": "Restaurant",
+            "spanish": "el restaurante"
+        },
+        {
+            "german": "Flughafen",
+            "spanish": "el aeropuerto"
+        },
+        {
+            "german": "Bäckerei",
+            "spanish": "la panadería"
+        },
+        {
+            "german": "Bushaltestelle",
+            "spanish": "la estación de autobús"
+        },
+        {
+            "german": "Kirche",
+            "spanish": "la iglesia"
+        },
+        {
+            "german": "Kino",
+            "spanish": "el cine"
+        },
+        {
+            "german": "Tankstelle",
+            "spanish": "la gasolinera"
+        },
+        {
+            "german": "Museum",
+            "spanish": "el museo"
+        },
+        {
+            "german": "Polizeistation",
+            "spanish": "la comisaría de policía"
+        },
+        {
+            "german": "Schule",
+            "spanish": "la escuela"
+        },
+        {
+            "german": "Platz",
+            "spanish": "la plaza"
+        },
+        {
+            "german": "Supermarkt",
+            "spanish": "el supermercado"
+        },
+        {
+            "german": "Zoo",
+            "spanish": "el zoo"
+        },
+        {
+            "german": "ich",
+            "spanish": "yo"
+        },
+        {
+            "german": "du",
+            "spanish": "tú"
+        },
+        {
+            "german": "er",
+            "spanish": "él"
+        },
+        {
+            "german": "sie / Sie",
+            "spanish": "ella / usted"
+        },
+        {
+            "german": "es",
+            "spanish": "eso"
+        },
+        {
+            "german": "wir",
+            "spanish": "nosotros/nosotras"
+        },
+        {
+            "german": "ihr",
+            "spanish": "vosotros / vosotras"
+        },
+        {
+            "german": "sie / Sie",
+            "spanish": "ellos/ellas / ustedes"
+        },
+        {
+            "german": "reise",
+            "spanish": "viajar"
+        },
+        {
+            "german": "Ich möchte gerne…",
+            "spanish": "Me gustaría…"
+        },
+        {
+            "german": "Wo sind die Toilleten?",
+            "spanish": "¿Dónde está el baño?"
+        },
+        {
+            "german": "Wie spät ist es?",
+            "spanish": "¿Qué hora es?"
+        },
+        {
+            "german": "Ich übernachte bei…",
+            "spanish": "Me estoy hospedando en…"
+        },
+        {
+            "german": "Ich besuche Familie",
+            "spanish": "Estoy visitando a la familia"
+        },
+        {
+            "german": "Ich bin hier für X Tage",
+            "spanish": "Voy a estar aquí por X días"
+        },
+        {
+            "german": "Haben Sie eine Karte?",
+            "spanish": "¿Tiene un mapa?"
+        },
+        {
+            "german": "Reisepass",
+            "spanish": "el pasaporte"
+        },
+        {
+            "german": "Flughafen",
+            "spanish": "el aeropuerto"
+        },
+        {
+            "german": "Hafen",
+            "spanish": "el puerto"
+        },
+        {
+            "german": "Sicherheit",
+            "spanish": "la seguridad"
+        },
+        {
+            "german": "Flugzeug",
+            "spanish": "el avión"
+        },
+        {
+            "german": "Zug",
+            "spanish": "el tren"
+        },
+        {
+            "german": "Schiff",
+            "spanish": "el barco"
+        },
+        {
+            "german": "Fahrrad",
+            "spanish": "la bicicleta"
+        },
+        {
+            "german": "Motorrad",
+            "spanish": "la motocicleta"
+        },
+        {
+            "german": "Bus",
+            "spanish": "el autobús"
+        },
+        {
+            "german": "fliegen",
+            "spanish": "volar"
+        },
+        {
+            "german": "fahren (Fahrzeug)",
+            "spanish": "conducir"
+        },
+        {
+            "german": "segeln",
+            "spanish": "navegar"
+        },
+        {
+            "german": "fahren (Fahrrad)",
+            "spanish": " reiten"
+        },
+        {
+            "german": "sein",
+            "spanish": "ser / estar"
+        },
+        {
+            "german": "bekommen",
+            "spanish": "conseguir"
+        },
+        {
+            "german": "geben",
+            "spanish": "dar"
+        },
+        {
+            "german": "leben",
+            "spanish": "vivir"
+        },
+        {
+            "german": "machen",
+            "spanish": "hacer"
+        },
+        {
+            "german": "gehen",
+            "spanish": "caminar"
+        },
+        {
+            "german": "benutzen",
+            "spanish": "usar"
+        },
+        {
+            "german": "essen",
+            "spanish": "comer"
+        },
+        {
+            "german": "denken",
+            "spanish": "pensar"
+        },
+        {
+            "german": "kommen",
+            "spanish": "venir"
+        },
+        {
+            "german": "haben",
+            "spanish": "tener"
+        },
+        {
+            "german": "tun",
+            "spanish": "hacer"
+        },
+        {
+            "german": "sagen",
+            "spanish": "decir"
+        },
+        {
+            "german": "gehen",
+            "spanish": "ir"
+        },
+        {
+            "german": "wissen",
+            "spanish": "saber"
+        },
+        {
+            "german": "sehen",
+            "spanish": "ver"
+        },
+        {
+            "german": "wollen",
+            "spanish": "querer"
+        },
+        {
+            "german": "finden",
+            "spanish": "encontrar"
+        },
+        {
+            "german": "erzählen",
+            "spanish": "decir"
+        },
+        {
+            "german": "fragen",
+            "spanish": "preguntar"
+        },
+        {
+            "german": "versuchen",
+            "spanish": "intentar"
+        },
+        {
+            "german": "anrufen",
+            "spanish": "llamar"
+        },
+        {
+            "german": "Name",
+            "spanish": "el nombre"
+        },
+        {
+            "german": "Wie heißen Sie / Wie heißt Du?",
+            "spanish": "¿Cómo se llama (usted) / Cómo te llamas?"
+        },
+        {
+            "german": "Ich heiße…",
+            "spanish": "Me llamo…"
+        },
+        {
+            "german": "Ich bin…",
+            "spanish": "Yo soy"
+        },
+        {
+            "german": "Es ist nett Sie / Dich kennenzulernen.",
+            "spanish": "Es un placer conocerle / conocerte."
+        },
+        {
+            "german": "Ich bin X Jahre alt.",
+            "spanish": "Tengo X años."
+        },
+        {
+            "german": "Ich komme aus…",
+            "spanish": "Soy de…"
+        },
+        {
+            "german": "Wie alt sind Sie / bist Du?",
+            "spanish": "¿Cuántos años tiene (usted) / tienes ?"
+        },
+        {
+            "german": "Wo arbeiten Sie / arbeitest Du?",
+            "spanish": "¿Dónde trabaja (usted) / trabajas?"
+        },
+        {
+            "german": "Wo kommen Sie / kommst Du her?",
+            "spanish": "¿De dónde es (usted) / eres?"
+        },
+        {
+            "german": "Was bringt Sie / Dich hierher?",
+            "spanish": "¿Qué le / te trae por aquí?"
+        },
+        {
+            "german": "Wie war Ihre / Deine Reise?",
+            "spanish": "¿Cómo ha ido su / tu viaje?"
+        },
+        {
+            "german": "Haben Sie / Hast Du eine gute Zeit?",
+            "spanish": "¿Lo está / estás pasando bien?"
+        },
+        {
+            "german": "Was halten Sie / hältst Du von …?",
+            "spanish": "¿Qué piensa / piensas sobre…?"
+        },
+        {
+            "german": "Meine Freunde nennen mich …",
+            "spanish": "Mis amigos me llaman…"
+        },
+        {
+            "german": "Kennen wir uns?",
+            "spanish": "¿Nos hemos visto antes?"
+        },
+        {
+            "german": "Dies ist (Name)",
+            "spanish": "Este / Esta es (nombre)"
+        },
+        {
+            "german": "Wie war Ihr  / Dein Wochenende?",
+            "spanish": "¿Cómo ha sido su / tu fin de semana?"
+        },
+        {
+            "german": "links",
+            "spanish": "izquierda"
+        },
+        {
+            "german": "rechts",
+            "spanish": "derecha"
+        },
+        {
+            "german": "hier",
+            "spanish": "aquí"
+        },
+        {
+            "german": "dort",
+            "spanish": "allí"
+        },
+        {
+            "german": "zurück",
+            "spanish": "atrás"
+        },
+        {
+            "german": "hoch",
+            "spanish": "arriba"
+        },
+        {
+            "german": "runter",
+            "spanish": "abajo"
+        },
+        {
+            "german": "geradeaus",
+            "spanish": "derecho"
+        },
+        {
+            "german": "Ort",
+            "spanish": "el lugar"
+        },
+        {
+            "german": "Wo ist…?",
+            "spanish": "¿Dónde está…?"
+        },
+        {
+            "german": "Wie komme ich nach…?",
+            "spanish": "¿Cómo llego a…?"
+        },
+        {
+            "german": "Ich suche … Straße.",
+            "spanish": "Estoy buscando la calle…"
+        },
+        {
+            "german": "um die Ecke",
+            "spanish": "A la vuelta de la esquina"
+        },
+        {
+            "german": "weit",
+            "spanish": "lejos"
+        },
+        {
+            "german": "in der Nähe von",
+            "spanish": "cerca"
+        },
+        {
+            "german": "gegenüber von",
+            "spanish": "enfrente de"
+        },
+        {
+            "german": "Folgen Sie mir",
+            "spanish": "sígame"
+        },
+        {
+            "german": "neben X",
+            "spanish": "al lado de X"
+        },
+        {
+            "german": "vorbeigehen",
+            "spanish": "pasar"
+        },
+        {
+            "german": "zwischen",
+            "spanish": "entre"
+        },
+        {
+            "german": "Ding",
+            "spanish": "la cosa"
+        },
+        {
+            "german": "sicher",
+            "spanish": "por supuesto"
+        },
+        {
+            "german": "der/die/das",
+            "spanish": "el/la/lo"
+        },
+        {
+            "german": "und",
+            "spanish": "y"
+        },
+        {
+            "german": "oder",
+            "spanish": "o"
+        },
+        {
+            "german": "weil",
+            "spanish": "porque"
+        },
+        {
+            "german": "Leben",
+            "spanish": "la vida"
+        },
+        {
+            "german": "Regierung",
+            "spanish": "el gobierno"
+        },
+        {
+            "german": "Kind",
+            "spanish": "el niño/la niña"
+        },
+        {
+            "german": "Firma",
+            "spanish": "la empresa"
+        },
+        {
+            "german": "Gruppe",
+            "spanish": "el grupo"
+        },
+        {
+            "german": "Alter",
+            "spanish": "la edad"
+        },
+        {
+            "german": "Mond",
+            "spanish": "la luna"
+        },
+        {
+            "german": "Sonne",
+            "spanish": "el sol"
+        },
+        {
+            "german": "Auto",
+            "spanish": "el coche"
+        },
+        {
+            "german": "Buch",
+            "spanish": "el libro"
+        },
+        {
+            "german": "Welt",
+            "spanish": "el mundo"
+        },
+        {
+            "german": "Familie",
+            "spanish": "la familia"
+        },
+        {
+            "german": "Freund",
+            "spanish": "el amigo"
+        },
+        {
+            "german": "Gesetz",
+            "spanish": "la ley"
+        },
+        {
+            "german": "Eins",
+            "spanish": "Uno"
+        },
+        {
+            "german": "Zwei",
+            "spanish": "Dos"
+        },
+        {
+            "german": "Drei",
+            "spanish": "Tres"
+        },
+        {
+            "german": "Vier",
+            "spanish": "Cuatro"
+        },
+        {
+            "german": "Fünf",
+            "spanish": "Cinco"
+        },
+        {
+            "german": "Sechs",
+            "spanish": "Seis"
+        },
+        {
+            "german": "Sieben",
+            "spanish": "Siete"
+        },
+        {
+            "german": "Acht",
+            "spanish": "Ocho"
+        },
+        {
+            "german": "Neun",
+            "spanish": "Nueve"
+        },
+        {
+            "german": "Zehn",
+            "spanish": "Diez"
+        },
+        {
+            "german": "Elf",
+            "spanish": "Once"
+        },
+        {
+            "german": "Zwölf",
+            "spanish": "Doce"
+        },
+        {
+            "german": "Dreizehn",
+            "spanish": "Trece"
+        },
+        {
+            "german": "Vierzehn",
+            "spanish": "Catorce"
+        },
+        {
+            "german": "Fünfzehn",
+            "spanish": "Quince"
+        },
+        {
+            "german": "Sechszehn",
+            "spanish": "Dieciséis"
+        },
+        {
+            "german": "Siebzehn",
+            "spanish": "Diecisiete"
+        },
+        {
+            "german": "Achtzehn",
+            "spanish": "Dieciocho"
+        },
+        {
+            "german": "Neunzehn",
+            "spanish": "Diecinueve"
+        },
+        {
+            "german": "Zwanzig",
+            "spanish": "Veinte"
+        },
+        {
+            "german": "Dreißig",
+            "spanish": "Treinta"
+        },
+        {
+            "german": "Vierzig",
+            "spanish": "Cuarenta"
+        },
+        {
+            "german": "Fünfzig",
+            "spanish": "Cincuenta"
+        },
+        {
+            "german": "Sechszig",
+            "spanish": "Sesenta"
+        },
+        {
+            "german": "Siebzieg",
+            "spanish": "Setenta"
+        },
+        {
+            "german": "Achzig",
+            "spanish": "Ochenta"
+        },
+        {
+            "german": "Neunzig",
+            "spanish": "Noventa"
+        },
+        {
+            "german": "Hundert",
+            "spanish": "Cien"
+        },
+        {
+            "german": "Zweihundert",
+            "spanish": "Doscientos"
+        },
+        {
+            "german": "Tausend",
+            "spanish": "Mil"
+        },
+        {
+            "german": "Zweitausend",
+            "spanish": "Dos mil"
+        },
+        {
+            "german": "Million",
+            "spanish": "Millón"
+        },
+        {
+            "german": "Milliarde",
+            "spanish": "Mil millones"
+        },
+        {
+            "german": "erste(r)",
+            "spanish": "primero/primera"
+        },
+        {
+            "german": "zweite(r)",
+            "spanish": "segundo/segunda"
+        },
+        {
+            "german": "dritte(r)",
+            "spanish": "tercero/tercera"
+        },
+        {
+            "german": "vierte(r)",
+            "spanish": "cuarto/cuarta"
+        },
+        {
+            "german": "fünfte(r)",
+            "spanish": "quinto/quinta"
+        },
+        {
+            "german": "sechste(r)",
+            "spanish": "sexto/sexta"
+        },
+        {
+            "german": "siebte(r)",
+            "spanish": "séptimo/séptima"
+        },
+        {
+            "german": "jetzt",
+            "spanish": "ahora"
+        },
+        {
+            "german": "heute",
+            "spanish": "hoy"
+        },
+        {
+            "german": "morgen",
+            "spanish": "mañana"
+        },
+        {
+            "german": "gestern",
+            "spanish": "ayer"
+        },
+        {
+            "german": "Sekunde",
+            "spanish": "el segundo"
+        },
+        {
+            "german": "Minute",
+            "spanish": "el minuto"
+        },
+        {
+            "german": "Stunde",
+            "spanish": "la hora"
+        },
+        {
+            "german": "Tag",
+            "spanish": "el día"
+        },
+        {
+            "german": "Woche",
+            "spanish": "la semana"
+        },
+        {
+            "german": "Monat",
+            "spanish": "el mes"
+        },
+        {
+            "german": "Jahr",
+            "spanish": "el año"
+        },
+        {
+            "german": "früh",
+            "spanish": "temprano"
+        },
+        {
+            "german": "spät",
+            "spanish": "tarde"
+        },
+        {
+            "german": "Montag",
+            "spanish": "el lunes"
+        },
+        {
+            "german": "Dienstag",
+            "spanish": "el martes"
+        },
+        {
+            "german": "Mittwoch",
+            "spanish": "el miércoles"
+        },
+        {
+            "german": "Donnerstag",
+            "spanish": "el jueves"
+        },
+        {
+            "german": "Freitag",
+            "spanish": "el viernes"
+        },
+        {
+            "german": "Samstag",
+            "spanish": "el sábado"
+        },
+        {
+            "german": "Sonntag",
+            "spanish": "el domingo"
+        },
+        {
+            "german": "Frühling",
+            "spanish": "la primavera"
+        },
+        {
+            "german": "Sommer",
+            "spanish": "el verano"
+        },
+        {
+            "german": "Herbst",
+            "spanish": "el otoño"
+        },
+        {
+            "german": "Winter",
+            "spanish": "el invierno"
+        },
+        {
+            "german": "Januar",
+            "spanish": "el enero"
+        },
+        {
+            "german": "Februar",
+            "spanish": "el febrero"
+        },
+        {
+            "german": "März",
+            "spanish": "el marzo"
+        },
+        {
+            "german": "April",
+            "spanish": "el abril"
+        },
+        {
+            "german": "Mai",
+            "spanish": "el mayo"
+        },
+        {
+            "german": "Juni",
+            "spanish": "el junio"
+        },
+        {
+            "german": "Juli",
+            "spanish": "el julio"
+        },
+        {
+            "german": "August",
+            "spanish": "el agosto"
+        },
+        {
+            "german": "September",
+            "spanish": "el septiembre"
+        },
+        {
+            "german": "Oktober",
+            "spanish": "el octubre"
+        },
+        {
+            "german": "November",
+            "spanish": "el noviembre"
+        },
+        {
+            "german": "Dezember",
+            "spanish": "el diciembre"
+        },
+        {
+            "german": "Uhrzeit",
+            "spanish": "la hora"
+        },
+        {
+            "german": "Wie spät ist es?",
+            "spanish": "¿Qué hora es?"
+        },
+        {
+            "german": "Jahrzehnt",
+            "spanish": "la década"
+        },
+        {
+            "german": "Jahrhundert",
+            "spanish": "el siglo"
+        }
+    ]
+}

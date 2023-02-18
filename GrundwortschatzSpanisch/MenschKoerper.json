@@ -1,0 +1,87 @@
+{
+    "from": "menschkoerper",
+    "to": "humanocuerpo",
+    "name": "Sprachheld/Mensch und Körper",
+    "words": [
+        {
+            "menschkoerper": "Mann",
+            "humanocuerpo": "el hombre"
+        },
+        {
+            "menschkoerper": "Frau",
+            "humanocuerpo": "la mujer"
+        },
+        {
+            "menschkoerper": "Junge",
+            "humanocuerpo": "el niño"
+        },
+        {
+            "menschkoerper": "Mädchen",
+            "humanocuerpo": "la niña"
+        },
+        {
+            "menschkoerper": "Arm",
+            "humanocuerpo": "el brazo"
+        },
+        {
+            "menschkoerper": "Hand",
+            "humanocuerpo": "la mano"
+        },
+        {
+            "menschkoerper": "Bein",
+            "humanocuerpo": "la pierna"
+        },
+        {
+            "menschkoerper": "Fuß",
+            "humanocuerpo": "el pie"
+        },
+        {
+            "menschkoerper": "Auge",
+            "humanocuerpo": "el ojo"
+        },
+        {
+            "menschkoerper": "Kopf",
+            "humanocuerpo": "la cabeza"
+        },
+        {
+            "menschkoerper": "Gehirn",
+            "humanocuerpo": "el cerebro"
+        },
+        {
+            "menschkoerper": "Nase",
+            "humanocuerpo": "la nariz"
+        },
+        {
+            "menschkoerper": "Ohr",
+            "humanocuerpo": "la oreja"
+        },
+        {
+            "menschkoerper": "Haar",
+            "humanocuerpo": "el pelo"
+        },
+        {
+            "menschkoerper": "Augenbraue",
+            "humanocuerpo": "la ceja"
+        },
+        {
+            "menschkoerper": "Lippen",
+            "humanocuerpo": "los labios"
+        },
+        {
+            "menschkoerper": "Finger",
+            "humanocuerpo": "el dedo"
+        },
+        {
+            "menschkoerper": "Skelett",
+            "humanocuerpo": "el esqueleto"
+        },
+        {
+            "menschkoerper": "Knochen",
+            "humanocuerpo": "los huesos"
+        },
+        {
+            "menschkoerper": "Haut",
+            "humanocuerpo": "la piel"
+        }
+    ]
+}

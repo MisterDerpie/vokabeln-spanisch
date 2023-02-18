@@ -1,0 +1,87 @@
+{
+    "from": "wegbeschreibungen",
+    "to": "direcciones",
+    "name": "Sprachheld/Wegbeschreibung",
+    "words": [
+        {
+            "wegbeschreibungen": "links",
+            "direcciones": "izquierda"
+        },
+        {
+            "wegbeschreibungen": "rechts",
+            "direcciones": "derecha"
+        },
+        {
+            "wegbeschreibungen": "hier",
+            "direcciones": "aquí"
+        },
+        {
+            "wegbeschreibungen": "dort",
+            "direcciones": "allí"
+        },
+        {
+            "wegbeschreibungen": "zurück",
+            "direcciones": "atrás"
+        },
+        {
+            "wegbeschreibungen": "hoch",
+            "direcciones": "arriba"
+        },
+        {
+            "wegbeschreibungen": "runter",
+            "direcciones": "abajo"
+        },
+        {
+            "wegbeschreibungen": "geradeaus",
+            "direcciones": "derecho"
+        },
+        {
+            "wegbeschreibungen": "Ort",
+            "direcciones": "el lugar"
+        },
+        {
+            "wegbeschreibungen": "Wo ist…?",
+            "direcciones": "¿Dónde está…?"
+        },
+        {
+            "wegbeschreibungen": "Wie komme ich nach…?",
+            "direcciones": "¿Cómo llego a…?"
+        },
+        {
+            "wegbeschreibungen": "Ich suche … Straße.",
+            "direcciones": "Estoy buscando la calle…"
+        },
+        {
+            "wegbeschreibungen": "um die Ecke",
+            "direcciones": "A la vuelta de la esquina"
+        },
+        {
+            "wegbeschreibungen": "weit",
+            "direcciones": "lejos"
+        },
+        {
+            "wegbeschreibungen": "in der Nähe von",
+            "direcciones": "cerca"
+        },
+        {
+            "wegbeschreibungen": "gegenüber von",
+            "direcciones": "enfrente de"
+        },
+        {
+            "wegbeschreibungen": "Folgen Sie mir",
+            "direcciones": "sígame"
+        },
+        {
+            "wegbeschreibungen": "neben X",
+            "direcciones": "al lado de X"
+        },
+        {
+            "wegbeschreibungen": "vorbeigehen",
+            "direcciones": "pasar"
+        },
+        {
+            "wegbeschreibungen": "zwischen",
+            "direcciones": "entre"
+        }
+    ]
+}

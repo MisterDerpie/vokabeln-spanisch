@@ -1,0 +1,79 @@
+{
+    "from": "imrestaurant",
+    "to": "enelrestaurante",
+    "name": "Sprachheld/Restaurant",
+    "words": [
+        {
+            "imrestaurant": "Einen Tisch für X Personen",
+            "enelrestaurante": " bitte."
+        },
+        {
+            "imrestaurant": "Ich würde gerne bestellen.",
+            "enelrestaurante": "Me gustaría pedir."
+        },
+        {
+            "imrestaurant": "Kann ich bitte die Karte haben?",
+            "enelrestaurante": "¿Puedo ver el menú"
+        },
+        {
+            "imrestaurant": "Die Rechnung bitte.",
+            "enelrestaurante": "La cuenta"
+        },
+        {
+            "imrestaurant": "Frühstück",
+            "enelrestaurante": "el desayuno"
+        },
+        {
+            "imrestaurant": "Mittagsessen",
+            "enelrestaurante": "el almuerzo"
+        },
+        {
+            "imrestaurant": "Abendessen",
+            "enelrestaurante": "la cena"
+        },
+        {
+            "imrestaurant": "Besteck",
+            "enelrestaurante": "la cubertería"
+        },
+        {
+            "imrestaurant": "Serviette",
+            "enelrestaurante": "la servilleta"
+        },
+        {
+            "imrestaurant": "Brunch",
+            "enelrestaurante": "el brunch"
+        },
+        {
+            "imrestaurant": "Hauptgang",
+            "enelrestaurante": "el plato principal"
+        },
+        {
+            "imrestaurant": "Dessert",
+            "enelrestaurante": "el postre"
+        },
+        {
+            "imrestaurant": "Trinkgeld",
+            "enelrestaurante": "la propina"
+        },
+        {
+            "imrestaurant": "Beilage",
+            "enelrestaurante": "la guarnición"
+        },
+        {
+            "imrestaurant": "Getränke",
+            "enelrestaurante": "las bebidas"
+        },
+        {
+            "imrestaurant": "all you can eat",
+            "enelrestaurante": "el tenedor libre"
+        },
+        {
+            "imrestaurant": "Happy Hour",
+            "enelrestaurante": "la hora feliz / Happy Hour"
+        },
+        {
+            "imrestaurant": "Appetizer",
+            "enelrestaurante": "el aperitivo"
+        }
+    ]
+}

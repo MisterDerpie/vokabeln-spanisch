@@ -1,0 +1,95 @@
+{
+    "from": "reise",
+    "to": "viajar",
+    "name": "Sprachheld/Reise",
+    "words": [
+        {
+            "reise": "reise",
+            "viajar": "viajar"
+        },
+        {
+            "reise": "Ich möchte gerne…",
+            "viajar": "Me gustaría…"
+        },
+        {
+            "reise": "Wo sind die Toilleten?",
+            "viajar": "¿Dónde está el baño?"
+        },
+        {
+            "reise": "Wie spät ist es?",
+            "viajar": "¿Qué hora es?"
+        },
+        {
+            "reise": "Ich übernachte bei…",
+            "viajar": "Me estoy hospedando en…"
+        },
+        {
+            "reise": "Ich besuche Familie",
+            "viajar": "Estoy visitando a la familia"
+        },
+        {
+            "reise": "Ich bin hier für X Tage",
+            "viajar": "Voy a estar aquí por X días"
+        },
+        {
+            "reise": "Haben Sie eine Karte?",
+            "viajar": "¿Tiene un mapa?"
+        },
+        {
+            "reise": "Reisepass",
+            "viajar": "el pasaporte"
+        },
+        {
+            "reise": "Flughafen",
+            "viajar": "el aeropuerto"
+        },
+        {
+            "reise": "Hafen",
+            "viajar": "el puerto"
+        },
+        {
+            "reise": "Sicherheit",
+            "viajar": "la seguridad"
+        },
+        {
+            "reise": "Flugzeug",
+            "viajar": "el avión"
+        },
+        {
+            "reise": "Zug",
+            "viajar": "el tren"
+        },
+        {
+            "reise": "Schiff",
+            "viajar": "el barco"
+        },
+        {
+            "reise": "Fahrrad",
+            "viajar": "la bicicleta"
+        },
+        {
+            "reise": "Motorrad",
+            "viajar": "la motocicleta"
+        },
+        {
+            "reise": "Bus",
+            "viajar": "el autobús"
+        },
+        {
+            "reise": "fliegen",
+            "viajar": "volar"
+        },
+        {
+            "reise": "fahren (Fahrzeug)",
+            "viajar": "conducir"
+        },
+        {
+            "reise": "segeln",
+            "viajar": "navegar"
+        },
+        {
+            "reise": "fahren (Fahrrad)",
+            "viajar": " reiten"
+        }
+    ]
+}
