@@ -1,0 +1,31 @@
+{
+    "from": "german",
+    "to": "spanish",
+    "name": "Regular -ir (vivir)",
+    "words": [
+        {
+            "german": "Präsens - (zu) leben",
+            "spanish": "Presente<br/>(yo) viv<b>o</b><br/>(tú) viv<b>es</b><br/>(él) viv<b>e</b><br/>(n.) viv<b>imos</b><br/>(v.) viv<b>ís</b><br/>(ellos) viv<b>en</b>"
+        },
+        {
+            "german": "Perfekt - (zu) leben",
+            "spanish": "Pretérito perfecto compuesto<br/>(yo) he viv<b>ido</b><br/>(tú) has viv<b>ido</b><br/>(él) ha viv<b>ido</b><br/>(n.) hemos viv<b>ido</b><br/>(v.) habéis viv<b>ido</b><br/>(ellos) han viv<b>ido</b>"
+        },
+        {
+            "german": "Abgeschlossene Vergangenheit - (zu) leben",
+            "spanish": "Pretérito perfecto simple<br/>(yo) viv<b>í</b><br/>(tú) viv<b>iste</b><br/>(él) viv<b>ió</b><br/>(n.) viv<b>imos</b><br/>(v.) viv<b>isteis</b><br/>(ellos) viv<b>ieron</b>"
+        },
+        {
+            "german": "Futur - (zu) leben",
+            "spanish": "Futuro<br/>(yo) viv<b>iré</b><br/>(tú) viv<b>irás</b><br/>(él) viv<b>irá</b><br/>(n.) viv<b>iremos</b><br/>(v.) viv<b>iréis</b><br/>(ellos) viv<b>irán</b>"
+        },
+        {
+            "german": "Imperativ - (zu) leben",
+            "spanish": "Imperativo<br/>(yo) -<br/>(tú) viv<b>e</b><br/>(él) viv<b>a</b><br/>(n.) viv<b>amos</b><br/>(v.) viv<b>id</b><br>/(ellos) viv<b>an</b>"
+        },
+        {
+            "german": "Gerundio - (zu) leben",
+            "spanish": "viv<b>iendo</b>"
+        }
+    ]
+}

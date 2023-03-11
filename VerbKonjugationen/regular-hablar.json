@@ -1,0 +1,31 @@
+{
+    "from": "german",
+    "to": "spanish",
+    "name": "Regular -ar (hablar)",
+    "words": [
+        {
+            "german": "Präsens - (zu) reden",
+            "spanish": "Presente<br/>(yo) habl<b>o</b><br/>(tú) habl<b>as</b><br/>(él) habl<b>a</b><br/>(n.) habl<b>amos</b><br/>(v.) habl<b>áis</b><br/>(ellos) habl<b>an</b>"
+        },
+        {
+            "german": "Perfekt - (zu) reden",
+            "spanish": "Pretérito perfecto compuesto<br/>(yo) he habl<b>ado</b><br/>(tú) has habl<b>ado</b><br/>(él) ha habl<b>ado</b><br/>(n.) hemos habl<b>ado</b><br/>(v.) habéis habl<b>ado</b><br/>(ellos) han habl<b>ado</b>"
+        },
+        {
+            "german": "Abgeschlossene Vergangenheit - (zu) reden",
+            "spanish": "Pretérito perfecto simple<br/>(yo) habl<b>é</b><br/>(tú) habl<b>aste</b><br/>(él) habl<b>ó</b><br/>(n.) habl<b>amos</b><br/>(v.) habl<b>asteis</b><br/>(ellos) habl<b>aron</b>"
+        },
+        {
+            "german": "Futur - (zu) reden",
+            "spanish": "Futuro<br/>(yo) habl<b>aré</b><br/>(tú) habl<b>aras</b><br/>(él) habl<b>ará</b><br/>(n.) habl<b>aremos</b><br/>(v.) habl<b>aréis</b><br/>(ellos) habl<b>arán</b>"
+        },
+        {
+            "german": "Imperativ - (zu) reden",
+            "spanish": "Imperativo<br/>(yo) -<br/>(tú) habl<b>a</b><br/>(él) habl<b>e</b><br/>(n.) habl<b>emos</b><br/>(v.) habl<b>ad</b><br/>(ellos) habl<b>en</b>"
+        },
+        {
+            "german": "Gerundio - (zu) reden",
+            "spanish": "habl<b>ando</b>"
+        }
+    ]
+}

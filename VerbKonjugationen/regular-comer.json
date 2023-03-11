@@ -1,0 +1,31 @@
+{
+    "from": "german",
+    "to": "spanish",
+    "name": "Regular -er (comer)",
+    "words": [
+        {
+            "german": "Präsens - (zu) essen",
+            "spanish": "Presente</br>(yo) com<b>o</b><br/>(tu) com<b>es</b><br/>(él) com<b>e</b><br/>(n.) com<b>emos</b><br/>(v.) com<b>éis</b><br/>(ellos) com<b>en</b>"
+        },
+        {
+            "german": "Perfekt - (zu) essen",
+            "spanish": "Pretérito perfecto compuesto<br/>(yo) he com<b>ido</b><br/>(tú) has com<b>ido</b><br/>(él) ha com<b>ido</b></br>(n.) hemos com<b>ido</b><br/>(v.) habéis com<b>ido</b><br/>(ellos) han com<b>ido</b><br/>"
+        },
+        {
+            "german": "Abgeschlossene Vergangenheit - (zu) essen",
+            "spanish": "Pretérito perfecto simple<br/>(yo) com<b>í</b><br/>(tú) com<b>iste</b><br/>(él) com<b>ió</b><br/>(n.) com<b>imos</b><br/>(v.) com<b>isteis</b><br/>(ellos) com<b>ieron</b>"
+        },
+        {
+            "german": "Futur - (zu) essen",
+            "spanish": "Futuro<br/>(yo) com<b>eré</b><br/>(tú) com<b>erás</b><br/>(él) com<b>erá</b><br/>(n.) com<b>eremos</b><br/>(v.) com<b>eréis</b><br/>(ellos) com<b>erán</b>"
+        },
+        {
+            "german": "Imperativ - (zu) essen",
+            "spanish": "Imperativo<br/>(yo) -<br/>(tú) com<b>e</b><br/>(él) com<b>a</b><br/>(n.) com<b>amos</b><br/>(v.) com<b>ed</b><br/>(ellos) com<b>an</b>"
+        },
+        {
+            "german": "Gerundio - (zu) essen",
+            "spanish": "com<b>iendo</b>"
+        }
+    ]
+}
